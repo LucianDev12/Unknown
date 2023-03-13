@@ -1,5 +1,5 @@
-# Unknown
-External CS:GO cheat written in Python3-(11.2). (this took me an hour use at your own risk.)
+# CS-GO-python
+External CS:GO cheat written in Python3-(11.2).
 
 ## Functions:
 - Aimbot
