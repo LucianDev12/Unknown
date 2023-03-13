@@ -1,4 +1,4 @@
-# CS-GO-python
+# Unknown
 External CS:GO cheat written in Python3-(11.2).
 
 ## Functions:
